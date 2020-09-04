@@ -96,9 +96,7 @@ body {
 }
 
 .intro p {
-  max-width: 928px;
-  margin: 0 auto;
-  padding: 0 16px;
+  margin: 0 0 32px;
 }
 
 .skills-list {
